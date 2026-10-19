@@ -1,6 +1,6 @@
-# Maison Signup Form
+# React-form-assignment
 
-A responsive, premium-style signup form built with React and Vite. The form collects a user's name, email address, password, and password confirmation, along with their agreement to the terms and privacy policy.
+A modern React form assignment from the MN tech Academy, designed as a responsive, premium-style Maison signup experience. The form collects a user's name, email address, password, and password confirmation, along with their agreement to the terms and privacy policy.
 
 ## Form requirements
 
